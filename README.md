@@ -31,8 +31,7 @@ This was a basic challenge that I did for fun after signing up for frontend.io.
 
 ### Links
 
-- Live Site URL:
-  [Add live site URL here](https://zev18.github.io/qr-code-component-main/)
+- Live Site URL: [Github pages](https://zev18.github.io/qr-code-component-main/)
 
 ## My process
 
